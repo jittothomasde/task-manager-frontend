@@ -1,5 +1,5 @@
 // URL of our server
-const serverUrl = 'http://localhost:3000';
+const serverUrl = 'https://task-manager-backend-luao.onrender.com';
 
 // Select elements
 const taskForm = document.getElementById('task-form');
